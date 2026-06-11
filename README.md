@@ -1,9 +1,9 @@
 👋 Hi, I’m Nick Dilallo!
 
-I'm currently a fourth-year computer science student with a minor in data science who aspires to become a software developer. As a student at DePaul University, I am constantly seeking out new challenges and opportunities to grow both personally and professionally. With a solid foundation in programming languages and a passion for problem-solving, I am well-equipped to tackle complex projects and develop innovative solutions.
+I’m a software engineer focused on building internal platforms that support infrastructure provisioning and operational workflows.
 
-My time at DePaul has taught me not only technical skills but also valuable collaboration and communication skills. Through coursework and group projects, I have honed my ability to work effectively with others and adapt to new situations. Additionally, through my involvement in the executive board of our school's Computer Science Society as well as the creation of multiple personal projects, I have been able to apply my skills in real-world scenarios and develop a strong portfolio.
+My work centers on full-stack development using Python (Flask) and Angular, with a focus on backend systems, asynchronous processing, and reliability. I’ve worked on improving security through secret management, building integrations with external systems, and designing workflows that handle long-running and failure-prone operations.
 
-Looking to the future, I am eager to continue learning and growing in the field of computer science. Whether it's through full-time employment, research projects, or collaborations with other professionals, I am always excited to explore new avenues for growth and development.
+I’m particularly interested in backend engineering, distributed systems, and developing tools that improve developer productivity and system reliability.
 
 📫 You can reach me at: nickmdilallo@gmail.com
